@@ -47,7 +47,7 @@ The software requirements for the project are as follows:
 
 ## Conclusion
 
-[The Electricity Billing Management System (EBMS) offers a streamlined solution for
+The Electricity Billing Management System (EBMS) offers a streamlined solution for
 managing electricity bills efficiently, leveraging MySQL for database management alongside
 Thymeleaf for the frontend and the Spring Boot framework for backend operations. By
 integrating these technologies, EBMS ensures a simplified billing process for both
@@ -55,19 +55,19 @@ administrators and customers, enhancing overall user experience.
 In summary, EBMS guarantees accuracy, dependability, and transparency in the
 management of electricity bills in addition to streamlining the billing process. It is evidence of
 the ability of integrated technologies to improve billing management system effectiveness and
-user satisfaction.]
+user satisfaction.
 
 ## References
 
-[1. https://docs.spring.io/spring-boot/docs/current/reference/html/web.html
+1. https://docs.spring.io/spring-boot/docs/current/reference/html/web.html
 2. https://docs.spring.io/spring-framework/reference/web/webmvc-view/mvc-thymeleaf.html
 3. https://www.baeldung.com/spring-boot-jsp
 4. https://spring.io/guides/gs/accessing-data-mysql
-5. https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf]
+5. https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf
 
 ---
 
-DEPARTMENT OF COMPUTER APPLICATIONS  
+**DEPARTMENT OF COMPUTER APPLICATIONS  
 A MICRO LEVEL PROJECT REPORT  
 FOR ELECTRICITY BILL MANAGEMENT SYSTEM  
 ADVANCED JAVA PROGRAMMING  
@@ -76,4 +76,4 @@ MAY - 2024
 Submitted by:  
 DHYANESHVAR PRASAATH JM (23MCR019)  
 JEYSARAVANAN S (23MCR037)  
-MAONJKUMAR V (23MCR052)
+MAONJKUMAR V (23MCR052)**
