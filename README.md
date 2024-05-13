@@ -69,6 +69,7 @@ user satisfaction.
 
 *DEPARTMENT OF COMPUTER APPLICATIONS* 
 **A MICRO LEVEL PROJECT REPORT FOR ELECTRICITY BILL MANAGEMENT SYSTEM**
+------------------------------------------------------------------------
 ADVANCED JAVA PROGRAMMING  
 LABORATORY (22MCL21)  
 MAY - 2024  
